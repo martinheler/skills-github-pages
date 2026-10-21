@@ -2,8 +2,6 @@
 title: Welcome to my blog!
 ---
 
-# Welcome to my first pages
-
 this is my first pages in github, I'm really exited to complete it
 
 ## projects
